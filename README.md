@@ -1,3 +1,8 @@
+# Magnetoencephalography (MEG) Based Non-Invasive Chinese Speech Decoding
+
+## Overview
+This is the PyTorch implementation of the following paper: "Magnetoencephalography (MEG) Based Non-Invasive Chinese Speech Decoding".
+
 ## Usage
 
 ### Setup
